@@ -1,0 +1,12 @@
+.popover {
+    white-space: pre-wrap;
+}
+.navbar-brandx {
+    padding: 0px;
+}
+.navbar-brandx>img {
+    /*height: 100%;*/
+    padding: 10px 0px 0px 10px;
+    /*width: auto;*/
+    /*padding: 7px 15px;*/
+}
